@@ -1,0 +1,17 @@
+.button {
+  font-weight: bolder;
+  border: 0;
+  border-radius: 8px;
+  padding: 8px 22px;
+  min-width: 100px;
+}
+
+.primary {
+  background: #407f70;
+  color: #fff;
+}
+
+.secondary {
+  background: #aeb0b4;
+  color: #fff;
+}
